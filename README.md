@@ -556,7 +556,7 @@ if __name__ == "__main__":
 ```
 
 ### 전체 코드
-```
+
 import sys
 from functools import partial
 from PyQt6.QtCore import Qt
@@ -681,7 +681,8 @@ if __name__ == "__main__":
 * PyQt를 사용하여 실제 GUI 애플리케이션을 만드는 방법
 
 ### 전체코드
-import sys
+
+```import sys
 from functools import partial
 from PyQt6.QtCore import Qt
 from PyQt6.QtWidgets import QApplication, QMainWindow, QLineEdit, QPushButton, QGridLayout, QVBoxLayout, QWidget
@@ -791,7 +792,7 @@ def main():
     sys.exit(pycalcApp.exec())
 
 if __name__ == "__main__":
-    main()
-```
+    main()```
+
 
 출처 https://realpython.com/python-pyqt-gui-calculator/
