@@ -792,6 +792,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+```
 
 출처 https://realpython.com/python-pyqt-gui-calculator/
