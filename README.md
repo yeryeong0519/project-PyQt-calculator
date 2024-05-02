@@ -1,3 +1,6 @@
+## PyQt를 이용해 데스크톱 계산기 만들기 프로젝트
+![image](https://github.com/yeryeong0519/project-PyQt-calculator/assets/81680813/013728df-769f-4497-99cb-8abd614b6066)
+
 ### What is PyQt?
 > **Qt**는 C++를 주 언어로 사용하는 GUI(Graphic User Interface) 프레임워크이다. C++와 QML이라는 자체 스크립트 언어를 기반으로 한다. 플랫폼에 독립적인 GUI를 위한 추상화를 제공한다. 또한 네트워킹, 스레드, 정규 표현식, SQL, SVG 등 다양하고 강력한 기능을 제공한다. 
 
